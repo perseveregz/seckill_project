@@ -1,4 +1,3 @@
-# seckill_project
 # 订单秒杀项目
 B站上面的一个秒杀系统项目
 用到的技术栈有：Spring Boot+MyBatisPlus+MySql+RabbitMQ+Redis+Themeleaf
